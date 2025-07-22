@@ -4,6 +4,7 @@ LioraTa’ = Learn, Interact, Organize, Reflect/Research, Analyze Biology with A
 Makna Nama:
 - Liora adalah akronim dari lima aspek pembelajaran biologi aktif dan cerdas.
 - Ta’ berasal dari Bahasa Bugis, berarti “kita” – menekankan kepemilikan bersama.
+
 Deskripsi:
 LioraTa’ adalah asisten pembelajaran biologi berbasis kecerdasan buatan (AI) yang dikembangkan oleh Universitas Negeri Makassar (UNM) untuk mendukung siswa SMAN 4 Barru. Chatbot ini dirancang untuk mendampingi siswa dalam mempelajari biologi secara interaktif, reflektif, dan kolaboratif, serta mencerminkan nilai lokal dan semangat belajar bersama.
 

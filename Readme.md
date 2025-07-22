@@ -1,4 +1,4 @@
-# Chatbot Biologi Bu Rani
+# Chatbot Biologi LioraTa'
 
 Ini adalah proyek chatbot Telegram yang dirancang khusus untuk menjawab pertanyaan seputar biologi. Chatbot ini menggunakan API OpenAI (ChatGPT) untuk menghasilkan respons berdasarkan instruksi sistem yang telah ditentukan.
 
@@ -28,8 +28,8 @@ Ini adalah proyek chatbot Telegram yang dirancang khusus untuk menjawab pertanya
 3.  Buat file `.env` di direktori yang sama dengan `bot.py`.
 4.  Tambahkan variabel lingkungan berikut ke file `.env`, ganti nilai placeholder dengan token dan kunci API Anda:
     ```env
-    TELEGRAM_BOT_TOKEN=YOUR_TELEGRAM_BOT_TOKEN
-    OPENAI_API_KEY=YOUR_OPENAI_API_KEY
+    TELEGRAM_BOT_TOKEN="yout-telegram-bot-token-here"
+    OPENAI_API_KEY="your-openai-api-key-here"
     ```
 
 ## Penggunaan

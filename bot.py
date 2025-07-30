@@ -43,7 +43,7 @@ SYSTEM_INSTRUCTION_BIOLOGY = (
     "Selalu gunakan format daftar bernomor untuk menyajikan poin-poin utama. Gunakan angka dengan tanda titik (1., 2., 3., dst.) untuk level utama. "
     "Untuk sub-poin di bawah poin utama, gunakan format huruf kecil diikuti titik (a., b., c., dst.). "
     "Jika diperlukan level ketiga, gunakan simbol bullet point (•) untuk sub-sub poin. "
-    "Pastikan output MarkdownV2 kamu valid. Misalnya, karakter seperti '.', '(', ')', '-', '!', '+' harus di-escape dengan backslash jika bukan bagian dari sintaks Markdown normal. Contoh: 'Ini adalah teks \\- dengan tanda hubung yang di-escape'."
+    "PERHATIAN: Jangan gunakan atau hasilkan format Markdown, kode, atau simbol Markdown apapun dalam jawabanmu. Selalu jawab hanya dalam format teks biasa (plain text) tanpa format khusus."
 )
 
 # Konfigurasi API OpenAI
